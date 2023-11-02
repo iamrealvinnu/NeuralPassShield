@@ -39,7 +39,8 @@ Before you get started, ensure you have the following prerequisites installed on
 1. Clone this repository to your local machine using Git:
 
    ```shell
-   git clone https://github.com/your-username/NeuralPassShield.git
+   git clone https://github.com/iamrealvinnu/NeuralPassShield.git
+
    ```
 
 2. Install the required Python libraries using pip:
